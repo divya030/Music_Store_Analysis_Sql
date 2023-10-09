@@ -7,24 +7,12 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 
 <img width="594" alt="schema_diagram" src="https://github.com/divya030/Music_Store_Analysis_Sql/assets/96876070/87a6ee88-a850-43b1-bac4-fd80f0d9d1e2">
 
-### Questions Answered
-
-The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
-
-* What are the most popular genres of music?
-* What are the most popular artists?
-* What are the most popular songs?
-* What are the average prices of top 5 different types of music?
-* What are the most popular countries for music purchases?
-
-### Results
-
-The results of the project are as follows:
-
-* The most popular genre of music is "Rock".
-* The most popular artist is "AC/DC".
-* The most popular song is "Put the finger on you".
-* The most popular country for music purchases is the United States.
+### Insights
+* USA is the most popular country for music purchases with 876 purchases followed by Canada and Brazil with 390 and 352 purchases respectively.
+* Rock music is the top selling genre with $3360 spent.
+* "AC/DC" is the top selling artist.
+* Prague has the highest sales volume.
+* "Put the finger on you" is the most popular song.
 * The average price of an album are
   
       -- Rock - $3360.06
@@ -32,3 +20,9 @@ The results of the project are as follows:
       -- Blues - $216.81
       -- Latin - $107.91
       -- Alternative & Punk - $88.11
+
+### What I Learned
+* Joining tables.
+* Using sub queries.
+* Using aggregate and ranking window functions.
+* Using common table expressions (CTE).
