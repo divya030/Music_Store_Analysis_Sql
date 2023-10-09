@@ -26,9 +26,9 @@ The results of the project are as follows:
 * The most popular song is "Put the finger on you".
 * The average price of an album are
   
-      * Rock - $3360.06
-      * Metal - $788.04
-      * Blues - $216.81
-      * Latin - $107.91
-      * Alternative & Punk - $88.11
+      -- Rock - $3360.06
+      -- Metal - $788.04
+      -- Blues - $216.81
+      -- Latin - $107.91
+      -- Alternative & Punk - $88.11
 * The most popular country for music purchases is the United States.
