@@ -24,6 +24,7 @@ The results of the project are as follows:
 * The most popular genre of music is "Rock".
 * The most popular artist is "AC/DC".
 * The most popular song is "Put the finger on you".
+* The most popular country for music purchases is the United States.
 * The average price of an album are
   
       -- Rock - $3360.06
@@ -31,4 +32,3 @@ The results of the project are as follows:
       -- Blues - $216.81
       -- Latin - $107.91
       -- Alternative & Punk - $88.11
-* The most popular country for music purchases is the United States.
